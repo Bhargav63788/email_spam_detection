@@ -1,0 +1,91 @@
+message,label
+"Congratulations! You have won a $1,000 Walmart gift card. Click here to claim your prize now!",SPAM
+"Please attend the team meeting tomorrow at 10 AM in Conference Room B.",NOT_SPAM
+"URGENT: Your bank account has been compromised. Verify your login credentials immediately at http://secure-bank.example.com",SPAM
+"Hi Alex, attached is the revised project roadmap for Q3. Let me know your thoughts.",NOT_SPAM
+"You won a free prize, claim now! Text WIN to 77234 immediately.",SPAM
+"Are we still on for lunch at 12:30 today?",NOT_SPAM
+"Exclusive limited time offer! Get 80% discount on luxury designer watches today only.",SPAM
+"Can you please review the pull request on GitHub when you have a moment?",NOT_SPAM
+"WINNER! As a valued customer you have been selected for a free vacation to Hawaii. Call 1-800-FREE-TRIP.",SPAM
+"The weekly sprint retrospective has been rescheduled to Thursday at 3 PM.",NOT_SPAM
+"Double your bitcoin investment in just 24 hours guaranteed. Deposit your crypto now!",SPAM
+"Here are the meeting notes and action items from today's discussion.",NOT_SPAM
+"Dear customer, your PayPal account has unusual activity. Click here to confirm your identity.",SPAM
+"Thanks for sending over the invoice. I have forwarded it to accounting for payment processing.",NOT_SPAM
+"Free entry in a 250 weekly competition! Text ENTRY to 84122 to enter now.",SPAM
+"Could you send me the latest sales figures for the Southeast region?",NOT_SPAM
+"You have been pre-approved for a zero interest personal loan up to $50,000. Apply now!",SPAM
+"Don't forget to submit your timesheets before the end of the day on Friday.",NOT_SPAM
+"Claim your free gift voucher worth 500 dollars right now by clicking this exclusive link.",SPAM
+"I will be working remotely tomorrow due to a scheduled doctor's appointment in the morning.",NOT_SPAM
+"Hot singles in your area are waiting to chat with you right now! Click here to meet them.",SPAM
+"The client approved the final proposal. We can begin phase one next Monday.",NOT_SPAM
+"Act now! Refinance your home mortgage at the lowest interest rates in history.",SPAM
+"Please find the updated budget spreadsheet attached for your review.",NOT_SPAM
+"CONGRATULATIONS you are the selected winner of our million dollar international sweepstakes!",SPAM
+"Let's sync up for 15 minutes before the client presentation this afternoon.",NOT_SPAM
+"Get cheap prescription medications without a doctor's prescription. Fast shipping worldwide.",SPAM
+"Reminder: Annual company compliance training must be completed by the end of this month.",NOT_SPAM
+"You have 1 unread notification from your lottery administrator. Claim your jackpot winnings.",SPAM
+"Great job on the presentation today, the executive stakeholders were very impressed.",NOT_SPAM
+"Earn $5,000 a week working from home with no experience needed! Click to apply.",SPAM
+"Hi everyone, the office pantry has fresh donuts on the 4th floor.",NOT_SPAM
+"Final notice: Your Netflix subscription has expired. Update your billing information immediately.",SPAM
+"Could you please share your screen during the demo so we can follow along?",NOT_SPAM
+"Selected for a special cash reward of $2,500. Click to confirm your bank transfer details.",SPAM
+"The deployment to the staging server was successful. Ready for QA testing.",NOT_SPAM
+"Risk-free weight loss miracle pill! Lose 20 pounds in one week guaranteed.",SPAM
+"Happy birthday! Wishing you a wonderful day and a great year ahead.",NOT_SPAM
+"Alert: Unrecognized login attempt from Russia on your Apple ID. Click to reset your password.",SPAM
+"Please make sure all pull requests are rebased against main before merging.",NOT_SPAM
+"Instant approval credit card with no credit check required! Apply online in 60 seconds.",SPAM
+"I have added you as a collaborator on the new Figma design file.",NOT_SPAM
+"You have won an all-expenses-paid trip to Las Vegas! Claim your tickets before midnight.",SPAM
+"Can you double check the numbers in table 3 before we publish the report?",NOT_SPAM
+"Get rich quick with this secret automated trading bot. 1000% return guaranteed.",SPAM
+"Our flight lands at 6:45 PM. Let's take a taxi together from the airport.",NOT_SPAM
+"Your courier parcel could not be delivered due to an incorrect address. Update delivery details here.",SPAM
+"Please remember to lock the laboratory door when leaving the building.",NOT_SPAM
+"You have been awarded a complimentary Amazon voucher. Click here to redeem your code.",SPAM
+"Thank you for interviewing with us today. We will follow up with next steps by Friday.",NOT_SPAM
+"Urgent: Wire money immediately to receive your Nigerian prince inheritance of $10,000,000.",SPAM
+"The IT department will be conducting routine server maintenance this Saturday from 2 AM to 4 AM.",NOT_SPAM
+"Claim your free iPhone 15 Pro Max now! Only 3 left in stock for today's visitors.",SPAM
+"I left the office keys with security at the front desk.",NOT_SPAM
+"Limited offer: Buy 1 get 2 free on all genuine luxury perfumes today only.",SPAM
+"Could you provide feedback on the proposed database schema by tomorrow afternoon?",NOT_SPAM
+"You are chosen for a cash prize bonus! Text PRIZE to 55432 to claim now.",SPAM
+"The quarterly all-hands meeting link has been updated on your Google Calendar.",NOT_SPAM
+"Immediate payout! You have an unclaimed tax refund of $840 waiting in your account.",SPAM
+"Can we reschedule our one-on-one meeting to Wednesday morning?",NOT_SPAM
+"Win a brand new Tesla Model 3! Free sweepstake entry closes tonight.",SPAM
+"Here is the draft agenda for the upcoming product workshop next week.",NOT_SPAM
+"Notice: Your email mailbox is full. Click here to increase your email storage capacity.",SPAM
+"Please review the attached contract and let me know if legal needs to make any revisions.",NOT_SPAM
+"Congratulations! Your mobile number won $50,000 in our international mobile draw.",SPAM
+"I will be on annual leave starting next Monday and returning on Friday.",NOT_SPAM
+"Lose belly fat fast with this one weird trick doctors hate! Watch the video now.",SPAM
+"The server monitoring dashboard is showing elevated CPU utilization on worker-node-2.",NOT_SPAM
+"Special promotion: 90% off all designer sunglasses. Order before stock runs out.",SPAM
+"Do you have a few minutes to jump on a quick huddle on Slack?",NOT_SPAM
+"Claim your $500 Target gift card now! Take this 30-second survey to qualify.",SPAM
+"All unit tests are passing and the build is green on continuous integration.",NOT_SPAM
+"Warning: Your Norton antivirus protection has expired. Renew now to prevent trojan infection.",SPAM
+"We need to finalize the vendor selection before the end of the fiscal quarter.",NOT_SPAM
+"Free casino spins worth $200! Register your new account now and win real money.",SPAM
+"Can someone please approve the access request for the new data analyst joining our team?",NOT_SPAM
+"You have received an encrypted message from the IRS regarding unpaid taxes. Open attachment.",SPAM
+"The customer support team reported a decrease in ticket resolution times this week.",NOT_SPAM
+"Instant loan approval without credit verification. Fast cash transferred directly to your account.",SPAM
+"Let's review the customer feedback from the beta testing cohort during tomorrow's standup.",NOT_SPAM
+"You have been selected to receive a free luxury cruise. Dial 888-555-0199 now.",SPAM
+"I have updated the documentation in the repository wiki with the new API endpoints.",NOT_SPAM
+"URGENT: Click here to verify your crypto wallet or your tokens will be permanently frozen.",SPAM
+"The marketing team requested high-resolution assets for the new product landing page.",NOT_SPAM
+"Collect your free reward points today! Redeemable for cash, gift cards, and electronics.",SPAM
+"Please ensure all customer data is properly anonymized in accordance with GDPR guidelines.",NOT_SPAM
+"Final call to claim your sweepstakes prize of $100,000 cash! Don't miss out.",SPAM
+"Thanks for the coffee catchup earlier, let's keep in touch regarding the open role.",NOT_SPAM
+"You have won a free lottery ticket! Click to scratch and reveal your guaranteed cash prize.",SPAM
+"We should schedule a brief post-mortem to analyze what caused the outage yesterday.",NOT_SPAM
